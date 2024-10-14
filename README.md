@@ -17,19 +17,19 @@ I am a passionate Full-stack developer with expertise in designing, developing, 
 
 ## 🔨 My Work Experience
 
-### 🌐 [S&P Global](https://www.spglobal.com) | Senior Software Developer | July 2023 - Present
+### 📈 [S&P Global](https://www.spglobal.com) | Senior Software Developer | July 2023 - Present
 - Developed and maintained production-level SPAs using **React.js**, **TypeScript**, and **C#**.
 - Enhanced back-end services using **SQL Server** and **Transact-SQL**.
 - Actively contributed to Agile ceremonies and TDD practices in cross-functional teams.
 - Led **technical walkthroughs** to align product goals with business objectives.
 - Produced comprehensive documentation in **Confluence** to foster team collaboration.
 
-### 🌐 [TELUS](https://www.telus.com) | Senior/Intermediate Full-Stack Developer | March 2021 - April 2023
+### 💻 [TELUS](https://www.telus.com) | Senior/Intermediate Full-Stack Developer | March 2021 - April 2023
 - Built solutions for **Telus Business Internet Plans**, Cloud VoIP, and security tools using **React**, **Next.js**, **Node.js**, and **GCP**.
 - Designed reusable **React components** and implemented **Contentful** structures for promotional offers.
 - Emphasized **security best practices** with GitHub Dependabot and automated tasks using GitHub Actions.
 
-### 🌐 [Your Fuse Inc.](https://www.yourfuse.com) | Software Engineer | Jan 2019 - March 2021
+### 🖥️ [Your Fuse Inc.](https://www.yourfuse.com) | Software Engineer | Jan 2019 - March 2021
 - Developed a web portal CRM with real-time data using **React** and **Redux**.
 - Integrated **Firebase** for scalable cloud services and real-time updates.
 - Implemented innovative solutions for file management and data extraction using **vanilla JavaScript**, **Google API**, and **BeautifulSoup**.
@@ -39,7 +39,7 @@ I am a passionate Full-stack developer with expertise in designing, developing, 
 - **Bachelor of Computer Science** - *Ongoing (Part-time)* | Algoma University (Expected Graduation: Apr 2025)
 - **Computer Systems Technician & Networking** - Georgian College (Graduated with GPA 3.75/4.0)
 
-## 📈 GitHub Stats
+## ⚙️ GitHub Stats
 
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsharma&show_icons=true&theme=radical)
 
@@ -49,4 +49,8 @@ I'm always excited to connect with fellow developers, collaborate on open-source
 
 ---
 
-⭐️ *Fun Fact*: I love exploring new web technologies and enhancing my skills in **full-stack development**! 
+## 🤓 **Fun Facts**
+☕ **Coffee Lover**: Fueled by copious amounts of coffee and clean code!  
+🐛 **Debugger Extraordinaire**: Debugging is like detective work—I'm always on the hunt for those elusive bugs.  
+🚀 **Eternal Learner**: Constantly learning something new. If it's not a new framework, it's probably a random fact I stumbled upon on the internet!  
+
